@@ -1,6 +1,6 @@
-# Add-Your-Team-Name-Here
+# Transformers-Proteins-in-Disguise
 
-Our team is from ... and we think proteins are cool 🙌
+Our team is from the Nordic countries and we think language is cool!
 
 ### Project Description
 We are working on the `protein-language` challenge.
