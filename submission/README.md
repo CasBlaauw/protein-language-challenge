@@ -3,7 +3,7 @@
 Our team is from the Nordic countries and we think language is cool!
 
 
-#Team members
+### Team members
 - Cas Blaauw: MSc student in Bioinformatics at University of Copenhagen 🇳🇱 → 🇩🇰
 - Linda Ottensmann: Doctoral candidate in Population Health at University of Helsinki 🇩🇪 → 🇫🇮
 
